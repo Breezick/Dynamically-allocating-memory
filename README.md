@@ -1,2 +1,2 @@
-# Dynamically-allocating-memory
+# Dynamically-allocating-memory-C++
 In here I created a simple matrix transpose solver. The special part of this is that the user can input the size(any size) of the matrix they want to transpose and also the inputs of each elements of the matrix. I had to dynamically allocate the rows and columns to this matrix since a matrix is a 2D array whose size must be allocated when created with a constant number, rather than a variable, in which the "cin" function takes. 
